@@ -1,1 +1,1 @@
-# yostheory.github.io
+# yostheory
