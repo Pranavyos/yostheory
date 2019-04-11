@@ -573,12 +573,12 @@ justify-content: space-between;
   .site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover .row {
     min-height: 600px;
     height: calc(30vh); }
-  .site-blocks-cover h1 {
+  .site-blocks-cover h3 {
     font-size: 4rem;
     font-weight: 900;
     color: #fff; }
     @media (max-width: 991.98px) {
-      .site-blocks-cover h1 {
+      .site-blocks-cover h3 {
         font-size: 2rem; } }
   .site-blocks-cover p {
     color: rgba(255, 255, 255, 0.5);
